@@ -1,5 +1,6 @@
 # Satellite_Image_Processing
-Image Processing on the live satellite images of earth. Helped know the vegitation rate in an area, Water index, and land to vegetation ratio on the image.
+Image Processing on the live satellite images of earth. Helped know the vegetation rate in an area, Water index, and land-to-vegetation ratio from the image.
+
 # NDVI
 ![NDVI(First)](https://user-images.githubusercontent.com/65583643/194739186-882c6201-db1a-4a14-8e2c-2037c8277f7f.png)
 
